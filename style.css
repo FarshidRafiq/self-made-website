@@ -95,9 +95,6 @@ section{
 .feedback-area span{
     font-size: 30px;
 }
-.footer-area{
-    background-image: url("img/footer-bg.png");
-}
 .footer-area p{
     font-size: 15px;
     color: #656565;
@@ -109,5 +106,10 @@ section{
 #separate-case2{
     font-size: 20px;
     color: black;
+}
+.client-feedback{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    ;
 }
 
